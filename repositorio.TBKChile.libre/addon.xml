@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repositorio.TBKChile.libre" name="IPTV-TBKCHILE" version="0.0.1" provider-name="TBKCHILE">
+	<extension point="xbmc.addon.repository" name="IPTV-TBKCHILE">
+		<info compressed="false">http://raw.github.com/TBKCHILE/IPTV-BKCHILE/master/addons.xml</info>
+		<checksum>http://raw.github.com/TBKCHILE/IPTV-BKCHILE/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/TBKCHILE/IPTV-BKCHILE/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Mis listas favoritas que deseo compartir</summary>
+		<description>Addon de canales latinos que más veo en chile y peliculas, series o cortos donde intervenga un chileno</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
